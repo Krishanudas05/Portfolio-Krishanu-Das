@@ -1,0 +1,8 @@
+body {
+    background-color: beige;
+    color: rgb(128, 83, 0);
+}
+hr {
+    background-color: rgba(182, 121, 8, 0.767);
+    border-style: dotted;
+}
